@@ -1,4 +1,6 @@
-![workflow](https://github.com/<Mawa-Jr>/<RepositoryName>/actions/workflows/main.yml/badge.svg)
+![workflow](https://github.com/Mawa-Jr/devop/actions/workflows/main.yml/badge.svg)
 
+[![LICENSE](https://img.shields.io/github/license/mawa-Jr/devop.svg?style=flat-square)](https://github.com/Mawa-Jr/devop/blob/master/LICENSE)
 
+[![Releases](https://img.shields.io/github/release/mawa-jr/devop/all.svg?style=flat-square)](https://github.com/mawa-jr/devop/releases)
 
