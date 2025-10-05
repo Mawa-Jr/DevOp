@@ -1,4 +1,4 @@
 FROM openjdk:latest
 COPY ./target/seMethod-1.0-SNAPSHOT-jar-with-dependencies.jar /tmp
 WORKDIR /tmp
-ENTRYPOINT ["java", "-jar", "/app.jar","seMethod-1.0-SNAPSHOT-jar-with-dependencies.jar"]
+ENTRYPOINT ["java", "-jar","seMethod-1.0-SNAPSHOT-jar-with-dependencies.jar"]
